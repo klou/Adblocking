@@ -1005,3 +1005,6 @@ best.aliexpress.com
 feedly.com
 aax-us-iad.amazon.com
 aan.amazon.com
+nbcu.demdex.net # NBC/CSN Sports
+#nbcume.sc.omtrdc.net # NBC/CSN Sports
+#geo.nbcsports.com # NBC/CSN Sports
